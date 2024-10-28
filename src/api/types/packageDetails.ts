@@ -7,4 +7,5 @@ export interface PackageDetails {
     name: string;
   };
   license: string;
+  maintainers: [];
 }
